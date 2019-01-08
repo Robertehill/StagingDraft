@@ -5,7 +5,7 @@
   background-size: auto;
   background-repeat: no-repeat;
   background-attachment: fixed; */
-  background-color: #f2f2f2;
+  background-color: #fcfafa;
 }
 /* .custom-toggler .navbar-toggler-icon {
   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(43, 0, 80, 1)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
@@ -23,6 +23,18 @@
 }
 .color-purp{
   color: #2B0050 !important;
+}
+.bg-lav{
+  background-color: rgba(230, 230, 250,1);
+}
+.bg-lav-6{
+  background-color: rgba(230, 230, 250,0.6);
+}
+.bg-lav-9{
+  background-color: rgba(230, 230, 250,0.9);
+}
+.bg-lav-dark{
+  background-color: rgba(181, 126, 220,1);
 }
 .float-right{
   display: flex;
