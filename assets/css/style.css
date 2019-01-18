@@ -15,6 +15,10 @@
   background-image: url("../img/IvyBGLG.jpg");
   background-attachment: fixed;
 }
+.bg-img-light-greyscale{
+  background-image: url("../img/IvyBGLG-grey-light.jpg");
+  background-attachment: fixed;
+}
 .bold{
   font-weight: bold;
 }
@@ -78,6 +82,9 @@
   margin-left:auto;
   margin-right:auto;
 }
+.margin-top-3em{
+  margin-top: 3em;
+}
 .max-width-90{
   max-width: 90%;
 }
@@ -109,7 +116,7 @@
   padding: .5em;
 }
 .font-cursive{
-  font-family: 'Italianno', cursive;
+  font-family: cursive;
 }
 .font-size-4em{
   font-size: 4em;
@@ -117,14 +124,20 @@
 .font-size-3em{
   font-size: 3em;
 }
+.font-size-1em{
+  font-size: 1em;
+}
 .font-size-2em{
   font-size: 2em;
 }
-.font-size-1.5em{
+.font-size-1-5em{
   font-size: 1.5em;
 }
 .font-size-half-em{
   font-size: 0.5em;
+}
+.font-black{
+  color: black;
 }
 .max-height-90{
   max-height: 90vh;
