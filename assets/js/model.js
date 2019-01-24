@@ -250,7 +250,7 @@ var portfolioPicsList = [
   {
     "picID": "32",
     "houseID" :"1",
-    "fileName":"WildernessBed.jpg",
+    "fileName":"Wildernessbed.jpg",
     "titletext":"Bedroom",
     "bodyText": ["para 1", "para 2"],
     "photocredit":"blah@fakeemail.com"
