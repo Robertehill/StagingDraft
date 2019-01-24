@@ -28,7 +28,7 @@ view.portPicstoHtml = function(obj) {
       bodyText = value;
     }
   });
-  var html = '<div class="card col-sm-10 col-md-4 col-lg-4 pad-1em margin-auto margin-bottom-1em"><img class="card-img-top" src="assets/img/portfolio/'+fileName+'" alt="Card image cap"><div class="card-body"><h5 class="card-title">'+titletext+'</h5><div id="'+picID+'Body"></div><p class="card-text">Photo by '+photocredit+'</p></div></div>';
+  var html = '<div class="card col-sm-10 col-md-4 col-lg-4 pad-1em margin-auto margin-bottom-1em"><img class="card-img-top" src="assets/img/portfolio/'+fileName+'" alt="Card image cap"><div class="card-body"><h5 class="card-title">'+picID+'</h5><div id="'+picID+'Body"></div></div><p class="text-bottom">Photo by '+photocredit+'</p></div>';
   $('#portfolio-section').append(html);
   // console.log("bodyText ="+ bodyText);
   $.each(bodyText, function( key, value ) {

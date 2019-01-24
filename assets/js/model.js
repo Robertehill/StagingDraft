@@ -119,6 +119,166 @@ var portfolioPicsList = [
     "bodyText": ["para 1", "para 2"],
     "photocredit":"blah@fakeemail.com"
   },
+  {
+    "picID": "16",
+    "houseID" :"1",
+    "fileName":"Liv.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "17",
+    "houseID" :"1",
+    "fileName":"dine-room-2.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "18",
+    "houseID" :"1",
+    "fileName":"KM108242.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "19",
+    "houseID" :"1",
+    "fileName":"KM108268.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "20",
+    "houseID" :"1",
+    "fileName":"KM109945.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "21",
+    "houseID" :"1",
+    "fileName":"KMQ_0997.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "22",
+    "houseID" :"1",
+    "fileName":"KMX_7243.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "23",
+    "houseID" :"1",
+    "fileName":"KMX_9849.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "24",
+    "houseID" :"1",
+    "fileName":"KMX_9857.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "25",
+    "houseID" :"1",
+    "fileName":"Livcrown.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "26",
+    "houseID" :"1",
+    "fileName":"LivingRoomMC.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "27",
+    "houseID" :"1",
+    "fileName":"Modern.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "28",
+    "houseID" :"1",
+    "fileName":"pubtableseattle.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "29",
+    "houseID" :"1",
+    "fileName":"RedBed.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "30",
+    "houseID" :"1",
+    "fileName":"Rockfp.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "31",
+    "houseID" :"1",
+    "fileName":"TraditionalPurpleandGold.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "32",
+    "houseID" :"1",
+    "fileName":"WildernessBed.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "33",
+    "houseID" :"1",
+    "fileName":"WilsonLiv.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "34",
+    "houseID" :"1",
+    "fileName":"Wineglassandyellow.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
+  {
+    "picID": "35",
+    "houseID" :"1",
+    "fileName":"yellowwineglass.jpg",
+    "titletext":"Bedroom",
+    "bodyText": ["para 1", "para 2"],
+    "photocredit":"blah@fakeemail.com"
+  },
 ];
 
 //houseID=""

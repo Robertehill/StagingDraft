@@ -157,3 +157,7 @@
 .text-center{
   text-align: center;
 }
+.text-bottom{
+  vertical-align: text-bottom;
+
+}
