@@ -15,6 +15,10 @@
   background-image: url("../img/IvyBGLG.jpg");
   background-attachment: fixed;
 }
+.bg-img-heading{
+  background-image: url("../img/IvyBGLGHeadingOnly.jpg");
+  background-attachment: fixed;
+}
 .bg-img-light-greyscale{
   background-image: url("../img/IvyBGLG-grey-light.jpg");
   background-attachment: fixed;
@@ -30,6 +34,9 @@
 }
 .bg-lav{
   background-color: rgba(230, 230, 250,1);
+}
+.bg-black{
+  background-color: rgba(0, 0, 0,0.9);
 }
 .bg-lav-6{
   background-color: rgba(230, 230, 250,0.6);
@@ -151,8 +158,14 @@
 .max-height-90{
   max-height: 90vh;
 }
+.max-width-90vw{
+  max-width: 90vw;
+}
 .max-width-vw{
   max-width: 100vw;
+}
+.min-height-100{
+  min-height: 100vh;
 }
 .text-center{
   text-align: center;
@@ -160,4 +173,19 @@
 .text-bottom{
   vertical-align: text-bottom;
 
+}
+.full-screen{
+  /* min-height: 100vh; */
+
+  min-width: 90vw;
+  /* max-height: 100vh; */
+  height: auto;
+  /* width: auto; */
+}
+.footer-fixed {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
 }
