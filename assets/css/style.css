@@ -47,6 +47,14 @@
 .bg-lav-dark{
   background-color: rgba(181, 126, 220,1);
 }
+.pos-rel{
+  position: relative;
+}
+.pos-ab{
+  position: absolute;
+  /* left: 60%; */
+  top: 1em;
+}
 .float-right{
   display: flex;
   float: right;

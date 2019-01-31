@@ -7,6 +7,7 @@ view.portPicstoHtml = function(obj) {
   var titletext = "";
   var bodyText = "";
   var photocredit = "";
+  var photoCredLink = "";
 
   $.each( obj, function( key, value ) {
     if (key == "picID") {
@@ -27,14 +28,21 @@ view.portPicstoHtml = function(obj) {
     if (key == "bodyText") {
       bodyText = value;
     }
+    if (key == "photoCredLink") {
+      photoCredLink = value;
+    }
+
+
   });
-  var cardHtml = '<div id="'+picID+'" class="card col-sm-10 col-md-4 col-lg-4 pad-1em margin-auto margin-bottom-1em"><img class="card-img-top" src="assets/img/portfolio/'+fileName+'" alt="Card image cap"><div class="card-body"><h5 class="card-title">'+picID+'</h5><div id="'+picID+'Body"></div></div><p class="text-bottom">Photo by '+photocredit+'</p></div>';
+  var cardHtml = '<div id="'+picID+'" class="card col-sm-10 col-md-4 col-lg-4 pad-1em margin-auto margin-bottom-1em"><img class="card-img-top" src="assets/img/portfolio/'+fileName+'" alt="Card image cap"><div class="card-body"><h5 class="card-title">'+titletext+'</h5><div id="'+picID+'Body"></div></div><p class="text-bottom">Photo by '+photocredit+'</p></div>';
   var carouselIndicators = '<li data-target="#carouselExampleIndicators" data-slide-to="'+(picID - 1)+'"></li>';
   var portCarouselInner = '<div id="car'+picID+'" class="carousel-item"><img class="d-block margin-auto" src="assets/img/portfolio/'+fileName+'" alt=""></div>';
   $('#portfolio-div').append(cardHtml);
-  $('#port-carousel-indicators').append(carouselIndicators);
-
-  $('#port-carousel-inner').append(portCarouselInner);
+  // $('#port-carousel-indicators').append(carouselIndicators);
+  if (photoCredLink != '' || photoCredLink != null) {
+    $('#'+picID).append('<p class="text-bottom"><a class="font-black" href="'+photoCredLink+'">'+photoCredLink+'</a></p>');
+  }
+  // $('#port-carousel-inner').append(portCarouselInner);
   $.each(bodyText, function( key, value ) {
     $('#'+picID+'Body').append('<p>'+value+'</p>');
     console.log(key+' '+value);
