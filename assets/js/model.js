@@ -88,7 +88,7 @@ var portfolioPicsList = [
   {
     "picID": "11",
     "houseID" :"1",
-    "fileName":"Km100847.jpg",
+    "fileName":"KM100847.jpg",
     "titletext":"Lake Stevens $225,000",
     "bodyText": ["Every house on the market deserves to be shown in it's best light, even the less expensive ones.This house was lacking counter space, so with the sellers permission, we purchased an island and small cart with baskets to complete this kitchen.", ""],
     "photocredit":"Keith Morgan",
