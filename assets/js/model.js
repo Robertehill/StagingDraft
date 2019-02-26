@@ -3,7 +3,7 @@ var portfolioPicsList = [
     "picID": "1",
     "houseID" :"1",
     "fileName":"KMQ_1002-thumb.jpg",
-    "titletext":"Regal Newcastle Rambler",
+    "titletext":"Formal living and dining in Newcastle",
     "bodyText": ["This newly remodeled home motivated us to choose ornate furnishings, glass, gold, silver, leather and tufted nail head chairs to give it a sophisticated feel. We purposefully did not add a rug in the living room so that buyers could see the gorgeous new floors.", "Our color palette was inspired by the exterior color and the soft grey/blue walls and grey flooring inside. Adding the over-sized canvas in the dining room brought the buyers attention to the entire large space."],
     "photocredit":"Keith Morgan",
     "photoCredLink":"https://www.kmasonphoto.com"
@@ -90,7 +90,7 @@ var portfolioPicsList = [
     "houseID" :"1",
     "fileName":"KM100847.jpg",
     "titletext":"Kitchen in Lake Stevens",
-    "bodyText": ["Sometimes we come across a house that requires a permanent furniture for a solution to a problem, in this case it was a lack of usable counter space. With the sellers permission, we purchased an island and small cart with baskets to complete this kitchen.", ""],
+    "bodyText": ["Sometimes we come across a house that requires permanent furniture for a solution to a problem, in this case it was a lack of usable counter space. With the sellers permission, we purchased an island and small cart with baskets to complete this kitchen.", ""],
     "photocredit":"Keith Morgan",
     "photoCredLink":"https://www.kmasonphoto.com"
   },
@@ -100,14 +100,6 @@ var portfolioPicsList = [
     "fileName":"NauticalRoom.jpg",
     "titletext":"Children's room in Renton",
     "bodyText": ["Buyers often have their children with them when they look at homes, therefore staging some of the bedrooms to cater to the younger audiences can be an effective marketing technique. This can get the kids excited about living there which can sway the parents buying decision.", ""],
-    "photocredit":"Ivy Jo Houghton, Ivy League Staging"
-  },
-  {
-    "picID": "13",
-    "houseID" :"1",
-    "fileName":"RedBycicleBedroom.jpg",
-    "titletext":"Children's room in Renton",
-    "bodyText": ["Smaller rooms like this one require strategic styling using bold colors in order to take the buyers attention away from the size of the room. The faux suede red quilt gives the room soft texture, and then we added a theme of bicycles just for fun!", ""],
     "photocredit":"Ivy Jo Houghton, Ivy League Staging"
   },
 ];
