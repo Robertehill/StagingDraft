@@ -12,7 +12,7 @@ var portfolioPicsList = [
     "picID": "2",
     "houseID" :"1",
     "fileName":"Bonus_rm-thumb.jpg",
-    "titletext":"Game room in Lake Stevens $695,000 SOLD!",
+    "titletext":"Game room in Lake Stevens",
     "bodyText": ["Because this room was so massive, we staged it into &#34;use-areas&#34;, sectioning off spaces to create imagination for the purpose of the room.  A relaxing movie area, pool table game area, plus the back room we staged as a guest bedroom. We used red accents, as it is a great color to grab the buyers attention.", ""],
     "photocredit":"Ivy Jo Houghton, Ivy League Staging"
   },
@@ -20,7 +20,7 @@ var portfolioPicsList = [
     "picID": "3",
     "houseID" :"1",
     "fileName":"Bonus_room_bedrm.jpg",
-    "titletext":"Bicycle bedroom Lake Stevens $695,000",
+    "titletext":"Bicycle guest bedroom Lake Stevens",
     "bodyText": ["This bedroom is just off the bonus room, so we choose a theme to match. Smaller rooms like this one require strategic styling using bold colors in order to take the buyers attention away form the size of the room. The faux suede red quilt gives the room soft texture.", ""],
     "photocredit":"Photos by Tifiny",
     "photoCredLink":"https://www.facebook.com/PhotosByTifiny"
